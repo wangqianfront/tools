@@ -1,0 +1,38 @@
+#It is used for putting log file, synchronized record. Don't touch the files under it except the "stdout.log"
+working_dir: E:\syn-log
+
+#Places to be synchronized
+#Note: There must be a space after '-', and no space before it.
+source:
+- C:\workspace
+#- C:\Backup
+#- C:\Document
+#- C:\Pictures
+#- C:\software
+#- C:\Cloud
+#- C:\Documents and Settings\e525744
+
+
+#Synchronize target place, default is 'W:\'
+#This disk is only used for you. "C:\Workspace\Test\*" will be moved to "W:\Workspace\Test\*"
+destination:
+  E:\
+  
+#Files with the following extension will not be checksumed to verify changing.
+#Big file or file types you think will never be changed can put here
+unchangable.ext: .exe .7z .zip .jar .swf .png .gif .jpg .ico .tar .dll .inf .manifest .msi .cab .chm  
+
+#It is used to specify the type of file that you don't want to be synchronized
+filter.ext: .class .temp
+
+#Optional, to specify the log file, if not set, it will be ${working_dir}/stdout.log
+log.file: E:\syn-log\stdout.log
+
+
+  
+  
+  
+  
+
+   
+   
