@@ -1,4 +1,4 @@
-synchronize-file
+sync-tool
 ================
 
 easily synchronize files from one disk to another disk
