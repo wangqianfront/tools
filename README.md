@@ -21,17 +21,17 @@ Check the three checkboxes during the installation.
 js-dev-tool
 -----------
 
-•Atom & atom-ternjs
-•Chrome Dev Tools
-•PageSpeed Insights
-•Firefox Developer Edition
-•BrowserSync
-•TraceGL
-•ironNode
-•ESLint
-•rtype (the spec) & rfx (the library) Warning: These are unfinished developer previews.
-•Babel
-•Greenkeeper.io & updtr
-•React
-•Webpack + Hot module replacement
-•Redux + Redux DevTools
+ 1. Atom & atom-ternjs
+ 2. Chrome Dev Tools
+ 3. PageSpeed Insights
+ 4. Firefox Developer Edition
+ 5. BrowserSync
+ 6. TraceGL
+ 7. ironNode
+ 8. ESLint
+ 9. rtype (the spec) & rfx (the library) Warning: These are unfinished developer previews.
+ 10. Babel
+ 11. Greenkeeper.io & updtr
+ 12. React
+ 13. Webpack + Hot module replacement
+ 14. Redux + Redux DevTools
