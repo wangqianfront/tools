@@ -16,3 +16,22 @@ Check the three checkboxes during the installation.
 3. Change the content of config.yml to add the source you want to synchronize.
 4. Double click on the  Synchronizor.rb 
 5. Never touched the files under ${workding_dir} except the stdout.log
+
+
+js-dev-tool
+-----------
+
+•Atom & atom-ternjs
+•Chrome Dev Tools
+•PageSpeed Insights
+•Firefox Developer Edition
+•BrowserSync
+•TraceGL
+•ironNode
+•ESLint
+•rtype (the spec) & rfx (the library) Warning: These are unfinished developer previews.
+•Babel
+•Greenkeeper.io & updtr
+•React
+•Webpack + Hot module replacement
+•Redux + Redux DevTools
